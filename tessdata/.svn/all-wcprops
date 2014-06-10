@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata
+END
+eng.user-words
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.user-words
+END
+eng.word-dawg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.word-dawg
+END
+eng.DangAmbigs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.DangAmbigs
+END
+eng.freq-dawg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.freq-dawg
+END
+eng.normproto
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.normproto
+END
+eng.inttemp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.inttemp
+END
+eng.pffmtable
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.pffmtable
+END
+eng.unicharset
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Reader_Pro/!svn/ver/1/The%20Reader/tessdata/eng.unicharset
+END
